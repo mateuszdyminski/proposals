@@ -1,7 +1,7 @@
 # Polish
 
 ### Bio - short
-Programista – czasem devops. Z Javą związany od 8, a z GO od 4 lat. Na co dzień pracuje w Nokii, gdzie, zajmuje się rozwijaniem platformy do zarządzania siecią nadajników, używanej przez setki operatorów komórkowych na całym świecie. Jeden z założycieli wrocławskiego GoWroc (Golang Wroclaw user group).
+Programista, czasem devops, preferuje Backend, toleruje Frontend, okazjonalnie speaker, prywatnie mąż i ojciec. Z Javą związany od 8, a z GO od 4 lat. Na co dzień pracuje w Nokii. Jeden z założycieli wrocławskiego GoWroc (Golang Wroclaw user group).
 
 ### Bio - long
 
